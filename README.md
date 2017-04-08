@@ -5,4 +5,6 @@ movie_trailer.py file imports media.py and fresh_tomatoes.py and creates 6 insta
 
 fresh_tomatoes.py creates the code for movie website which displays list of favourite movies and give information regarding them such as title,storyline,poster image,youtube trailer
 
-fresh_tomatoes.html displays the movie trailer website
+fresh_tomatoes.html displays the movie trailer website.Either you can directly run fresh_tomatoes.html to view website or you can watch trailer by clicking on the movie poster or by typing python movie_trailer.py on terminal.
+
+Happy Watching!
